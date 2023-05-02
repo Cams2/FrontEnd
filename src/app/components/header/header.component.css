@@ -1,0 +1,21 @@
+div{
+    background-color:#5F96B6;
+   
+}
+
+
+app-social{
+    float: right;
+    margin-top: 50px;
+}
+
+app-banner{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      
+      img {
+        max-width: 100%;
+      }
+
